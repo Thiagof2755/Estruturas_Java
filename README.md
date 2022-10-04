@@ -3,7 +3,7 @@ Aprendendo diferentes estruturas em java
 
 Lista de exercícios:
 
-Estrutura Sequencial
+Estrutura Sequencial <br>
 Estrutura De Decisao
 Estrutura De Repeticao
 Exercicios Listas
